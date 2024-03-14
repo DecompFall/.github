@@ -10,7 +10,7 @@ isn't Daggerfall paid? no, it hasn't been since 2009, and even at that, the game
 
 ## Progress:
 
-| EXE | PROGRESS | ACCURACY | UNDERSTANDING ON WHAT IT DOES |
-| --- | --------- | --------- | --------------------------- |
+| EXE | PROGRESS | ACCURACY | UNDERSTANDING |
+| --- | --------- | --------- | ----------- |
 | DAGGER.EXE | 5% | ??% | 75% |
 | FALL.EXE | 0% | 0% | 0% |
